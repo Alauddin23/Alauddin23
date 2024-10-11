@@ -7,7 +7,7 @@
 
 - 🖥️ Grinding to improve my **competitive programming** skills.
 
-- 🏫 Studying Computer Science & Statistics @ **McGill University**
+- 🏫 Studying Computer Science & Statistics @ [McGill University](https://www.mcgill.ca/)
 
 - 📫 How to reach me **md.siddiqui@mail.mcgill**
 
