@@ -1,7 +1,7 @@
 <h1 align="center">Hello, fellow coders! I'm Alauddin 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🏢 Full-Stack Software Developer Intern @ [Flexspring](https://www.flexspring.com/), managing the transformation project for the data dashboard and the core integration platform, expanding services based on client requests
+- 🏢 Full-Stack Software Developer Intern @ [Flexspring](https://www.flexspring.com/), managing the transformation project for the data dashboard and the core integration platform while expanding services based on client requests
 
 - 💵 Also building **a MERN stack social media app to connect buyers and sellers**
 
