@@ -1,17 +1,21 @@
 <h1 align="center">Hello, fellow coders! I'm Alauddin 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💵 Also building **a MERN stack social media app to connect buyers and sellers.**
+- 🏢 Full-Stack Software Developer Intern @ [Flexspring](https://www.flexspring.com/), managing the transformation project for the data dashboard and the core integration platform, expanding services based on client requests
+
+- 💵 Also building **a MERN stack social media app to connect buyers and sellers**
 
 - ☁️ Currently pursuing [AWS Certified Cloud Practitioner Certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-- 🖥️ Grinding to improve my **competitive programming** skills.
+- 🖥️ Grinding to improve my **competitive programming** skills
 
 - 🏫 Studying Computer Science & Statistics @ [McGill University](https://www.mcgill.ca/)
 
 - 📃 My Latest [Resume](https://alauddinsiddiquiresume.s3.ca-central-1.amazonaws.com/Alauddin_Siddiqui_Resume.pdf)
 
 - 📫 How to reach me **md.siddiqui@mail.mcgill**
+
+- ☕ Always up for discussing tech, trading, or soccer over a cup of coffee
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
