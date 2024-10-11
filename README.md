@@ -7,8 +7,6 @@
 
 - ☁️ Currently pursuing [AWS Certified Cloud Practitioner Certificate](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-- 🖥️ Grinding to improve my **competitive programming** skills
-
 - 🏫 Studying Computer Science & Statistics @ [McGill University](https://www.mcgill.ca/)
 
 - 📃 My Latest [Resume](https://alauddinsiddiquiresume.s3.ca-central-1.amazonaws.com/Alauddin_Siddiqui_Resume.pdf)
