@@ -1,13 +1,13 @@
 <h1 align="center">Hello, fellow coders! I'm Alauddin 👋</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 💵 I’m currently working on **a MERN stack social media app to connect buyers and sellers.**
+- 💵 Also building **a MERN stack social media app to connect buyers and sellers.**
 
 - 🌱 I’m currently learning **AWS Certified Cloud Practitioner course**
 
-- 🖥️ Currently on my **competitive programming grind**
+- 🖥️ Grinding to improve my **competitive programming** skills.
 
-- 🏫 Studying CS & Stats @ **McGill University**
+- 🏫 Studying Computer Science & Statistics @ **McGill University**
 
 - 📫 How to reach me **md.siddiqui@mail.mcgill**
 
